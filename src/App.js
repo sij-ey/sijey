@@ -48,7 +48,6 @@ function App() {
         <Experience />
         <Projects />
         <Skills />
-        <Education />
         <Contact />
         <Footer />
       </Suspense>
