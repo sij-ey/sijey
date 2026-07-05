@@ -7,7 +7,6 @@ const About = lazy(() => import("./components/About"));
 const Experience = lazy(() => import("./components/Experience"));
 const Projects = lazy(() => import("./components/Projects"));
 const Skills = lazy(() => import("./components/Skills"));
-const Education = lazy(() => import("./components/Education"));
 const Contact = lazy(() => import("./components/Contact"));
 const Footer = lazy(() => import("./components/Footer"));
 const Services = lazy(() => import("./components/Services"));
