@@ -1,5 +1,6 @@
 import { Helmet } from "react-helmet";
 import React, { Suspense, lazy } from "react";
+import { Analytics } from "@vercel/analytics/react";
 
 const Navbar = lazy(() => import("./components/Navbar"));
 const Hero = lazy(() => import("./components/Hero"));
@@ -14,6 +15,7 @@ const Services = lazy(() => import("./components/Services"));
 function App() {
   return (
     <>
+    <Analytics />
     <div className="dark:bg-gray-900 dark:text-white">
       <Helmet>
         <title>Charles Ochieng | Full-Stack Developer</title>
