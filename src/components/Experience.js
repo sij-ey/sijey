@@ -16,6 +16,19 @@ function Experience() {
           <li>Reduced voter wait time by 25% through efficient flow management</li>
           <li>Maintained 100% accuracy in ballot sorting and counting</li>
         </ul>
+         <h3 className="font-bold">
+          Green Wells Energies Ltd
+        </h3>
+        <p className="italic">IT Support Attachee (Aug 2022)</p>
+
+        <ul className="list-disc ml-5 mt-3">
+          <li>rovided technical support for users and organizational IT systems.</li>
+          <li>Assisted in network setup, maintenance, and troubleshooting.</li>
+          <li>Diagnosed and resolved network-related issues to improve system reliability.</li>
+          <li>Installed, configured, and maintained software applications.</li>
+          <li>Supported daily IT operations and end-user technical requirements.</li>
+          <li>Demonstrated strong teamwork, professionalism, and problem-solving skills throughout the attachment period.</li>    
+        </ul>
       </div>
     </section>
   );
