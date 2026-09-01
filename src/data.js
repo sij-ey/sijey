@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: "SAKA Fleet Management System",
-    description: " an IoT-based fleet management system integrating GPS tracking devices,real-time data transmission, backend services, and a web dashboard.",
+    description: "An IoT-based fleet management system integrating GPS tracking devices,real-time data transmission, backend services, and a web dashboard.",
     github: "#",
     demo: "#",
   },
