@@ -14,7 +14,7 @@ function Skills() {
 
         <div>
           <h3 className="font-bold">Web & Database</h3>
-          <p>HTML, CSS, MySQL, Git, GitHub</p>
+          <p>HTML, CSS, Bootstrap, React, MySQL, Git, GitHub</p>
         </div>
 
         <div>
