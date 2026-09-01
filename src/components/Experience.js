@@ -19,10 +19,10 @@ function Experience() {
          <h3 className="font-bold">
           Green Wells Energies Ltd
         </h3>
-        <p className="italic">IT Support Attachee (Aug 2022)</p>
+        <p className="italic">IT Support Attachee (Sep - Dec 2025)</p>
 
         <ul className="list-disc ml-5 mt-3">
-          <li>rovided technical support for users and organizational IT systems.</li>
+          <li>Provided technical support for users and organizational IT systems.</li>
           <li>Assisted in network setup, maintenance, and troubleshooting.</li>
           <li>Diagnosed and resolved network-related issues to improve system reliability.</li>
           <li>Installed, configured, and maintained software applications.</li>
